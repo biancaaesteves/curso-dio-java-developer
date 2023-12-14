@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExercicioDois",
+            "request": "launch",
+            "mainClass": "ExercicioDois",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "curso-dio-java-developer_6b55e880",
+            "args": [
+                "BIANCA",
+                "ESTEVES",
+                "20",
+                "1.70"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "Metodos",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        }
+    ]
+}

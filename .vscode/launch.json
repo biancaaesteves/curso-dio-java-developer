@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
             "name": "ExercicioDois",
             "request": "launch",
             "mainClass": "ExercicioDois",

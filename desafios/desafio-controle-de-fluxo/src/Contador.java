@@ -33,7 +33,7 @@ static void contar(int parametroUm, int parametroDois ) throws ParametrosInvalid
     for (int i =1; i <= contagem; i++) {
         System.out.println("Imprimindo o número " + i);
     }
-    System.out.println("Total de " + contagem + " ocorrências.");
+    System.out.println("Total de " + contagem + " ocorrências");
     }
     
 }

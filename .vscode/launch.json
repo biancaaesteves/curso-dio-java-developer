@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "candidatura.ProcessoSeletivo",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "Problem3",
+            "request": "launch",
+            "mainClass": "Problem3",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "Problem2",
+            "request": "launch",
+            "mainClass": "Problem2",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "URI",
+            "request": "launch",
+            "mainClass": "URI",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "curso-dio-java-developer_6b55e880"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",
